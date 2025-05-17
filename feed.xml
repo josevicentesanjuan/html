@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Canción de Hielo y Fuego - Jose Vicente Sanjuan Martinez</title>
+    <link>https://example.com/index.html</link>
+    <description>Actualizaciones del sitio web Canción de Hielo y Fuego</description>
+    <language>es</language>
+    <item>
+      <title>Introducción</title>
+      <link>https://josevicentesanjuan.github.io/html/introduccion.html</link>
+      <description>Información general del mundo de Poniente y Essos</description>
+      <pubDate>Fri, 17 May 2024 10:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Libros</title>
+      <link>https://josevicentesanjuan.github.io/html/tabla.html</link>
+      <description>Tabla con los libros principales y complementarios de la saga</description>
+      <pubDate>Fri, 17 May 2024 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Reyes, Casas y Reinos</title>
+      <link>https://josevicentesanjuan.github.io/html/listas.html</link>
+      <description>Lista jerárquica de reyes y casas nobles</description>
+      <pubDate>Fri, 17 May 2024 11:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Continentes</title>
+      <link>hhttps://josevicentesanjuan.github.io/html/continentes.html</link>
+      <description>Exploración de Poniente, Essos y otras regiones</description>
+      <pubDate>Fri, 17 May 2024 11:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Razas</title>
+      <link>https://josevicentesanjuan.github.io/html/razas.html</link>
+      <description>Información sobre las razas humanas y no humanas</description>
+      <pubDate>Fri, 17 May 2024 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mapas</title>
+      <link>https://josevicentesanjuan.github.io/html/mapa.html</link>
+      <description>Mapas detallados de Poniente y Essos</description>
+      <pubDate>Fri, 17 May 2024 12:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Formulario de contacto</title>
+      <link>hhttps://josevicentesanjuan.github.io/html/formulario.html</link>
+      <description>Envía tu mensaje sobre la saga</description>
+      <pubDate>Fri, 17 May 2024 13:00:00 +0200</pubDate>
+    </item>
+  </channel>
+</rss>
+
